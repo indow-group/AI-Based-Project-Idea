@@ -2,7 +2,7 @@
 This repository is for providing some ideas to develop.
 
 <details>
-  <summary>1️⃣ Image Captioning (General)</summary>
+  <summary>1. Image Captioning (General)</summary>
   
   ### 🧠 Foundational Models
   - **GIT (Generative Image-to-Text Transformer)** – Uses a vision encoder and text decoder for image captioning.
@@ -19,7 +19,7 @@ This repository is for providing some ideas to develop.
 </details>
 
 <details>
-  <summary>2️⃣ Medical Image Captioning (CT Scan Report Generation)</summary>
+  <summary>2. Medical Image Captioning (CT Scan Report Generation)</summary>
   
   ### 🧠 Foundational Models
   - **CT2Rep** – Automated **radiology report generation** for 3D medical imaging.
@@ -35,7 +35,7 @@ This repository is for providing some ideas to develop.
 </details>
 
 <details>
-  <summary>3️⃣ AI-Based Trending Hashtag Generator for Instagram</summary>
+  <summary>3. AI-Based Trending Hashtag Generator for Instagram</summary>
   
   ### 🧠 Foundational Models
   - **CLIP (Contrastive Language-Image Pertaining)** – Matches images with text descriptions (great for hashtag relevance).
@@ -51,7 +51,7 @@ This repository is for providing some ideas to develop.
 </details>
 
 <details>
-  <summary>4️⃣ Video/Text-to-Animation Generation (Creative 🎥✨) - Milad is going to update this section </summary>
+  <summary>4. Video/Text-to-Animation Generation (Creative 🎥✨) - Milad is going to update this section </summary>
   
   ### 🧠 Foundational Models
   
@@ -61,5 +61,13 @@ This repository is for providing some ideas to develop.
 </details>
 
 
-
+<details>
+  <summary>5. automatic music transcription</summary>
+  
+  ### 🧠 Foundational Models
+  
+  ### 🏆 Benchmark Datasets
+  
+  ### 📖 Reading Materials
+</details>
 
