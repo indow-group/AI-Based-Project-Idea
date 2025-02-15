@@ -105,7 +105,7 @@ This repository is for providing some ideas to develop.
 </details>
 
 <details>
-  <summary>4️⃣ Video/Text-to-Animation Generation (Creative 🎥✨)</summary>
+  <summary>4️⃣ Video/Text-to-Animation Generation (Creative 🎥✨) - Milad is going to update this section </summary>
   
   ### 🧠 Foundational Models
   
