@@ -92,8 +92,8 @@ This repository is for providing some ideas to develop.
   <summary>3️⃣ AI-Based Trending Hashtag Generator for Instagram</summary>
   
   ### 🧠 Foundational Models
-  - **CLIP (Contrastive Language-Image Pretraining)** – Matches images with text descriptions (great for hashtag relevance).
-  - **BLIP (Bootstrapped Language-Image Pretraining)** – Can generate **context-aware captions and hashtags**.
+  - **CLIP (Contrastive Language-Image Pertaining)** – Matches images with text descriptions (great for hashtag relevance).
+  - **BLIP (Bootstrapped Language-Image Pertaining)** – Can generate **context-aware captions and hashtags**.
 
   ### 🏆 Benchmark Datasets
   - **Instagram Hashtag Dataset** – [Example Dataset on Kaggle](https://www.kaggle.com/datasets/nikhilb25/instagram-data)
